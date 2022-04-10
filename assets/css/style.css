@@ -133,13 +133,18 @@ footer {
 
 .cardtitle {
   position: absolute;
-  top: 20%;
+  text-align: center;
+  text-justify: distribute-all-lines;
+  border: 1px dotted blue;
+  top: 45%;
   height: auto;
-  max-height: 50%;
-  max-width: 40%;
+  left: 5%;
+  max-height: 40%;
+  max-width: 45%;
   font-size: 75%;
   padding: 2%;
   background-color: var(--colbg);
+  opacity: 80%;
 }
 
 .projpic img {
