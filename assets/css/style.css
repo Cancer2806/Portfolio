@@ -134,7 +134,6 @@ footer {
 .cardtitle {
   position: absolute;
   text-align: center;
-  text-justify: distribute-all-lines;
   border: 1px dotted blue;
   top: 45%;
   height: auto;
@@ -146,6 +145,8 @@ footer {
   background-color: var(--colbg);
   opacity: 80%;
 }
+
+.cardtitle p {padding: 3% 0 0 0;}
 
 .projpic img {
   width: 100%;
