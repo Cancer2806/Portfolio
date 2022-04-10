@@ -1,5 +1,5 @@
 # Project Portfolio
-Portfolio of a candidate employee's project work.
+Portfolio of my Work so Far.
 
 ## Description
 The webpage sets out a portfolio of work for use by employers' in assessing the suitability of the owner to be engaged in employment or for work on specific projects.
@@ -18,8 +18,8 @@ The flagship project is presented in a larger format than the other projects.  I
 ## Usage
 The webpage is located at this address:  https://cancer2806.github.io/Portfolio/ 
 
-{{{A screenshot of the webpage is provided below:
-![Application Screenshot](./assets/images/PortfolioScreenshot.png):  Requires updating}}}
+
+![Application Screenshot](./assets/images/PortfolioScreenshot.png)
 
 CSS is contained over two files.  The first file is used to ensure a clean environment (./assets/css/reset.css) and the second for the actual styling of the page (./assets/css/style.css)
 
